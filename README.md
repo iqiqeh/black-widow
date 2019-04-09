@@ -2,6 +2,4 @@
 
 - Scarlett Johansson
 
-- heqi
-
-- haha
+- Scarlett
