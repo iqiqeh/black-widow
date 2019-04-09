@@ -2,4 +2,8 @@
 
 - Scarlett Johansson
 
+<<<<<<< HEAD
 - Scarlett
+=======
+- Johansson
+>>>>>>> scarlett
